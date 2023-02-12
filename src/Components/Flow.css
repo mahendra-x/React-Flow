@@ -1,0 +1,9 @@
+.react-flow__node-output.selectable.selected{
+    box-shadow: 0 0 0 1px #e12222;
+    border: 2px solid red;
+}
+.react-flow__node-default.selectable.selected{
+    box-shadow: 0 0 0 1px #e12222;
+
+    
+}
